@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "583613066440",
+    "project_id": "relab-crv",
+    "storage_bucket": "relab-crv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583613066440:android:6ad65fc28139725d9009fd",
+        "android_client_info": {
+          "package_name": "com.relab.crv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583613066440-nesassmomhb3qkh76nrb060lueo9klm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ2LQQqE8zdgr2U2y1-fASGV4YEhBuBW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583613066440-nesassmomhb3qkh76nrb060lueo9klm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
