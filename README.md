@@ -1,6 +1,4 @@
-# crv_assistance
-
-Crv Assistance App
+Flutter Remote Viewing Assistant App
 
 ### screenshots
 ![1](https://play-lh.googleusercontent.com/4ykJphagkUz1b3KnWndrQfqP3usW7Nbldm-95HmFzrDdD8gQqmN5wDx3_tIu8EajnA=w720-h310-rw)
